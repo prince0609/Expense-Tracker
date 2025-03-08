@@ -22,5 +22,5 @@ An easy-to-use web application designed to help users track their expenses, mana
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/prince0609/expense-tracker.git
+cd expense
